@@ -14,7 +14,7 @@ print("Molto piacere, mi chiamo " + nome_negoziante + "... E sono pronto a servi
 print("\nDato che abbiamo aperto da poco, abbiamo solo 3 tastiere:")
 print("Quella della Trust, quella della MSI e quella della Logitech!")
 print("\nLa tastiera più costosa che abbiamo è la " + tastiera_costosa)
-print("Ora che te le ho descritte, dimmi, quale preferisci?")
+print("Ora che te le ho descritte, dimmi, quale preferisci!")
 tastiera_richiesta = input()
 print("Hai scelto la" + str(tastiera_richiesta))
 if tastiera_richiesta == tastiera_economica:
